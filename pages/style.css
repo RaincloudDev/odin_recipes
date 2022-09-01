@@ -4,7 +4,10 @@ ul, ol{
 }
 
 
-
+img{
+    max-width: 45rem;
+    aspect-ratio: 16 / 9;
+}
 .button{
     
     text-decoration: none;
@@ -34,7 +37,6 @@ ul, ol{
     background-color: gray;
     border: 2px solid black;
     border-radius: 10px;
-  
     text-align: center;
 }
 
